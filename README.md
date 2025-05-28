@@ -1,26 +1,26 @@
-# 🎮 Tic Tac Toe Game
+# Tic Tac Toe Game
 
-A simple two-player **Tic Tac Toe** game built using **Python**. This is a terminal-based game that allows two players to take turns marking the spaces in a 3×3 grid. The game checks for a win or draw after every move and displays the result accordingly.
-
----
-
-## 📁 Features
-
-- Two-player mode
-- Command-line interface
-- Input validation
-- Win and draw detection
-- Replay option
+The Tic Tac Toe Game is a Python-based command-line application for two players. This classic game implementation focuses on simplicity, logic-building, and user interaction through a text-based interface. It allows two users to play turn-by-turn, placing their respective symbols (X and O) on a 3×3 grid.
 
 ---
 
-## ⚙️ Requirements
+## Features
+
+- Two-player mode: Supports a competitive game between two players with alternating turns.
+- Command-line interface: Interactive CLI that displays the game board and guides players through each step.
+- Input validation: Ensures that users enter valid and unoccupied positions to maintain game integrity.
+- Win and draw detection: Accurately checks for win conditions (rows, columns, diagonals) or a draw.
+- Replay option: Offers players the ability to restart the game after a match ends.
+
+---
+
+## Requirements
 
 - Python 3.x installed on your system
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
  tic-tac-toe-game
 - tic-tac-toe.py
@@ -28,16 +28,24 @@ A simple two-player **Tic Tac Toe** game built using **Python**. This is a termi
 
 ---
 
-## 🛠️ Setup & Run
+## Setup & Run
 
 Use the following commands to **clone** and **run** the project:
 
+## Step 1: Clone the repo:
 ```bash
 git clone https://github.com/RoshanSharma7/tic-tac-toe-game.git
-cd tic-tac-toe-game
-python tic-tac-toe.py
 ```
 
+## Step 2: Come inside the project folder:
+```
+cd tic-tac-toe-game
+```
+
+## Step 3: Run the Python file:
+```
+python tic-tac-toe.py
+```
 ---
 
 ## Contribution Guidelines
@@ -53,8 +61,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ---
 
 ## Contact
-- **LinkedIn**: [Roshan Sharma](https://www.linkedin.com/in/roshan-sharma7)
 - **GitHub**: [RoshanSharma7](https://github.com/RoshanSharma7)
+- **LinkedIn**: [Roshan Sharma](https://www.linkedin.com/in/roshan-sharma7)
 - **Email**: roshan.amlai96@gmail.com
 
 ---
